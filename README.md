@@ -1,4 +1,4 @@
-#Real time simple chat application
+# Real time simple chat application
 
 ## Technologies used:
 ### Express.js, Node.js, Socket.io
