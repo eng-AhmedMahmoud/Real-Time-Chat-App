@@ -4,7 +4,7 @@
 
 ### Express.js, Node.js, Socket.io
 
-# Usage
+## Usage
 
 Just clone or download and run:
 
